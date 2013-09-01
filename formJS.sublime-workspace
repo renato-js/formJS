@@ -1,0 +1,464 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"abrir",
+				"abrirAjuda"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"titulo",
+				"tituloCapitulo"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"list",
+				"list-lr	list-style-type: lower-roman;"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"list-stl",
+				"list-style-type"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"z",
+				"z	z-index"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"div",
+				"div	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!doctype html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>formJS</title>\n</head>\n<body>\n	<div id=\"explicacao\">\n		<h1>formJS</h1>\n		<p>\n			FormJS é um modelo de formulários com validação em javascript para sites simples e páginas de contato.\n\n			São enviados para outra arquivos com linguagem PHP, Asp... whetever...\n		</p>\n\n		<form action=\"#\" method=\"post\">\n			\n\n			\n		</form>\n	</div>\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 0,
+			"file_write_time": 1377474936000000,
+			"settings":
+			{
+				"buffer_size": 414,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/formJS.js",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/firefox-preview.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Snippet: ",
+				"Snippet: console log 1"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"action scr",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"user",
+				"Preferences: Package Control Settings – User"
+			]
+		],
+		"width": 420.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/renatosantos/SkyDrive/Estudos/Javascript/fds/index.html",
+		"/Users/renatosantos/SkyDrive/Estudos/Javascript/fds/src/js/interaction.js",
+		"/Users/renatosantos/Laboratório/Html/funcao click - toque/eventos2.html",
+		"/Users/renatosantos/Desktop/projetoSublime/index.html",
+		"/Users/renatosantos/Desktop/projetoSublime/src/js/interaction.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/word/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/word/telas/aula1.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/src/js/diretriz-1.0.0.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/cap1/frame1.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/src/css/diretriz-curso.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/src/css/reset.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/cap1/frame2.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/ajuda.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/cap1/frame5.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/cap1/frame6.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/cap1/frame7.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/cap1/frame9.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/cap1/frame8.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/cap1/frame3.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/cap1/frame4.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/layout.html",
+		"/Users/renatosantos/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/default.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/frame5.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/cap2/frame1.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/diretriz/ms_windows7/telas/frame8.html",
+		"/Users/renatosantos/Desktop/projeto_uno/index.html",
+		"/Users/renatosantos/Desktop/Template/index.html",
+		"/Users/renatosantos/Projetos Pessoais/Canoa - diretriz/Word/curso/word/index.html",
+		"/Users/renatosantos/Projetos Pessoais/Canoa - diretriz/Word/curso/word/src/css/style.css",
+		"/Users/renatosantos/Projetos Pessoais/Canoa - diretriz/Word/curso/index.html",
+		"/Users/renatosantos/Projetos Pessoais/Canoa - diretriz/Word/curso/word/telas/aula1.html",
+		"/Users/renatosantos/Projetos Pessoais/Canoa - diretriz/Word/curso/word/telas/aula2.html",
+		"/Users/renatosantos/Projetos Pessoais/Canoa - diretriz/Word/curso/word/src/js/script.js",
+		"/Users/renatosantos/Projetos Pessoais/Canoa - diretriz/Word/curso/word/telas/aula3.html",
+		"/Users/renatosantos/Projetos Pessoais/Axioma v2/src/css/reseter.css",
+		"/Users/renatosantos/Projetos Pessoais/Axioma v2/src/css/style.css",
+		"/Users/renatosantos/Projetos Pessoais/Axioma v2/index.html",
+		"/Users/renatosantos/Projetos Pessoais/Axioma v2/tutoriais/index.html",
+		"/Users/renatosantos/Projetos Pessoais/Axioma v2/biblioteca/index.html",
+		"/Users/renatosantos/Projetos Pessoais/Axioma v2/desenvolvimento/index.html",
+		"/Users/renatosantos/Desktop/teste/css/style.css",
+		"/Users/renatosantos/Library/Application Support/Sublime Text 2/Packages/User/firefox-preview.sublime-build",
+		"/Users/renatosantos/Desktop/teste/index.html",
+		"/Users/renatosantos/Desktop/project/css/style.css",
+		"/Users/renatosantos/Desktop/project/index.html",
+		"/Users/renatosantos/Library/Application Support/Sublime Text 2/Packages/User/console log.sublime-snippet",
+		"/Users/renatosantos/Library/Application Support/Sublime Text 2/Packages/User/console log 1.sublime-snippet",
+		"/Users/renatosantos/Library/Application Support/Sublime Text 2/Packages/User/funcao completa",
+		"/Users/renatosantos/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/renatosantos/Library/Application Support/Sublime Text 2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/renatosantos/Library/Application Support/Sublime Text 2/Packages/User/console.log",
+		"/Users/renatosantos/Library/Application Support/Sublime Text 2/Packages/Tag/Tag Package.sublime-settings",
+		"/Users/renatosantos/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/renatosantos/Library/Application Support/Sublime Text 2/Packages/User/log do console",
+		"/Users/renatosantos/Desktop/all 2.js",
+		"/Users/renatosantos/Desktop/index.html",
+		"/Users/renatosantos/Desktop/all.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h2",
+			"h3",
+			"totalFra",
+			"totalFrames",
+			"Cap\"",
+			"Capítulo",
+			"h3",
+			"img",
+			"italic",
+			"h4",
+			"h2",
+			"ul",
+			"<ul",
+			"ias\">",
+			"href=\"#\"",
+			"h1",
+			"<h1>",
+			"-li",
+			"		box-shadow:0 0 0; ",
+			"../fontes/",
+			"../fontes",
+			"fonts",
+			"box-three",
+			"<li>",
+			"li",
+			"\n	",
+			"	\n",
+			"fechar",
+			"zeng"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/js/formJS.js",
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.467292798913,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"untl",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/renatosantos/Desktop/projetoSublime 2/projetoSublime 2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 130.0,
+	"status_bar_visible": true
+}
